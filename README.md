@@ -1,0 +1,1 @@
+# bible-app-privacy-policy
