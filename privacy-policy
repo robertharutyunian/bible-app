@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Privacy Policy</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Privacy Policy for Bible</h1>
+    <p><strong>Last Updated:</strong> 12/29/25 </p>
+    <h2>Introduction</h2>
+    <p>Welcome to the Bible app! At Bible, your privacy is important to us. This Privacy Policy explains how we handle information for users of our app. By using the app, you agree to the terms of this Privacy Policy.</p>
+    <h2>1. Purpose of the App</h2>
+    <p>The Bible app allows users to read the Bible and access its content in a simple, user-friendly interface. No user data is collected at this time.</p>
+    <h2>2. Information Collection</h2>
+    <ul>
+        <li>We do not collect personal data from app users.</li>
+        <li>The app uses Google Analytics (GA) to collect anonymous usage data only for the purpose of analyzing app performance and improving user experience. No personally identifiable information is collected via this service.</li>
+    </ul>
+    <h2>3. Data Security</h2>
+    <p>The app does not store or process any user data, ensuring your privacy is protected.</p>
+    <h2>4. Third-Party Services</h2>
+    <p>The app utilizes Google Analytics to collect anonymous app usage statistics to help improve performance. For details on how Google handles your data, please refer to their <a href="https://policies.google.com/privacy">Privacy Policy</a>.</p>
+    <h2>5. Updates to this Privacy Policy</h2>
+    <p>This Privacy Policy may be updated periodically. Continued use of the app after changes are made indicates acceptance of the updated policy.</p>
+</body>
+</html>
